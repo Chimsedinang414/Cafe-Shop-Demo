@@ -1,0 +1,13 @@
+﻿===== RECEIPT =====
+2025-04-10 00:24:07
+
+Drink                    Price      Q.ty          Total
+-----------------------------------------------
+Trà chanh               18,000         3         54,000
+Latte                   12,000         2         24,000
+Matcha                  20,000         5        100,000
+-----------------------------------------------
+Total (before discounting): 178,000 VND
+Total (after discounting): 178,000 VND
+===============================================
+Thank you for your order!

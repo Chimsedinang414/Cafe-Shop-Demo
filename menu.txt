@@ -1,0 +1,6 @@
+﻿Latte,12000
+Cà phê,10000
+Trà sữa,20000
+Nước cam,15000
+Trà chanh,18000
+Matcha,20000

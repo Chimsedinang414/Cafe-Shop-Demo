@@ -1,0 +1,4 @@
+﻿Daily summary of orders in the day:
+Time		Total drinks	Total price (VND)
+2025-04-10 00:23:47	8		104,000
+2025-04-10 00:24:07	10		178,000
